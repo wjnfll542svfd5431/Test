@@ -4,6 +4,7 @@ public class Chenhan {
 	private String name;
 	private int age;
 	private String sex;
+	private int gradeid;
 	public String getName() {
 		return name;
 	}
