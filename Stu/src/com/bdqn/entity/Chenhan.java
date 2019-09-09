@@ -5,6 +5,19 @@ public class Chenhan {
 	private int age;
 	private String sex;
 	private int gradeid;
+	private String phone;
+	public int getGradeid() {
+		return gradeid;
+	}
+	public void setGradeid(int gradeid) {
+		this.gradeid = gradeid;
+	}
+	public String getPhone() {
+		return phone;
+	}
+	public void setPhone(String phone) {
+		this.phone = phone;
+	}
 	public String getName() {
 		return name;
 	}
